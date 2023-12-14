@@ -47,12 +47,9 @@ img{
     width: 150px;
 
 }
-
-p{
-    margin-bottom: 40px;
-    text-align: center;
+button{
+    width: 100px;
 }
-
 figcaption{
     font-size: 80%;
     font-style: italic;
