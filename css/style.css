@@ -18,6 +18,11 @@ nav li{
     color:white;
 }
 
+ul{
+    display: flex;  
+    list-style: none;
+}
+
 footer{
     background: black;
     height: 300px;
