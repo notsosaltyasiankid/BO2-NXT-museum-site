@@ -7,11 +7,7 @@
 body{
     font-size: 20px;
     font-family: sans-serif;
-}
-
-.foto1{
-    width: 504px;
-    height: 504px;
+    background: #292929;
 }
 
 nav li{
@@ -50,9 +46,29 @@ h1{
 
 
 article{
-    width: 60vw;
+    color: white; 
     margin: 0 auto;
-    padding: 40px;
+    padding: 20px;
+}
+
+.foto1{
+    width: 477.6px;
+    height: 400px;
+}
+
+.foto2{
+    width: 477.6px;
+    height: 400px;
+}
+
+.foto3{
+    width: 477.6px;
+    height: 400px;
+}
+
+.geschidenis{
+    width: 736.4px;
+    height: 400px;
 }
 
 
