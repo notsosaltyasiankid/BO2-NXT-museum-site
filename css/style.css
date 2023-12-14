@@ -9,6 +9,11 @@ body{
     font-family: sans-serif;
 }
 
+.foto1{
+    width: 504px;
+    height: 504px;
+}
+
 nav li{
     color:white;
 }
