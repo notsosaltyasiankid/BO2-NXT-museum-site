@@ -9,9 +9,12 @@ body{
     font-family: sans-serif;
 }
 
+nav li{
+    color:white;
+}
 
 footer{
     background: black;
-    height: 640px;
+    height: 300px;
     color: white;
 }
