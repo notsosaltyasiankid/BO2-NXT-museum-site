@@ -10,6 +10,13 @@ body{
    background: #292929;
 }
 
+.taal{
+    justify-content: flex;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
 nav ul{
     margin-left: 34px;
     margin-right: 34px;
