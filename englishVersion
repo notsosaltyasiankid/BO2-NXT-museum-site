@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,18 +23,16 @@
                 <li><a class="Headerbutton"href="https://nxtmuseum.com/nl/de-kunst-van-morgen-vandaag/">Info</a></li>
                 <li><a class="Headerbutton"href="https://virtual.nxtmuseum.com/">NXT Virtual Gallery</a></li>
                 <li><a class="Headerbutton"href="https://tickets.nxtmuseum.com/nl/tickets?_gl=1*137cq2x*_ga*MTAxNTM3NDE3NS4xNzAwNDY5MzA0*_ga_FL5TDXMYGX*MTcwMjk3MzQzNy4xMi4xLjE3MDI5NzQ4OTEuMC4wLjA.*_fplc*Vjl6dW92bVR0QUVzYWNrZW1nSmlRWlNGMzNaaUpTdDJiUUw1dXpQRm5xSVpUdTZWYUZPcUFCY05WaHBvMHhMZlJOTDdmZGMlMkYlMkZsVXBTeElIOSUyQjViQU5EWXBhcXh6UUhUSVpVdmFCMXMlMkZ5cFJMTkxkVzVKS3F2cE16VFhxTGclM0QlM0Q.">Tickets</a></li>
-                <li><a class="taal"href="https://37660.hosts2.ma-cloud.nl/BO2-NXT-museum-site/">En</a></li>
             </ul>
         </nav>
         
     </header>
     <article>
-        <h3>het museum</h3>
+        <h3>The museum</h3>
         <p>
-        Het eerste museum in Nederland dat zich volledig richt op mediakunst.
-        Ontdek grootschalige, 
-        digitale kunstinstallaties die je blik verruimen en de zintuigen op scherp stellen. 
-        De kunst van morgen, vandaag.
+            The first museum in the Netherlands that focuses entirely on media art.
+            Explore large-scale digital art installations that broaden your perspective and sharpen the senses. 
+            The art of tomorrow, today.
         </p>
         
         <img class="foto1" src="img/nxt 1.jpg" alt="een man tussen lichtstralen">
@@ -42,49 +40,48 @@
         <img class="foto3" src="img/nxt 3.jpg" alt="">
 
         <p class="geschidenis">
-            Nxt Museum is het eerste museum in Nederland dat zich volledig richt op mediakunst. 
-            We exposeren kunstwerken die gebruik maken van moderne technologieën van het heden en van de toekomst. 
-            Omdat kunst de tijdsgeest weerspiegelt, 
-            geloven wij dat de meest innovatieve kunst ons de mogelijkheid geeft om op de impact van technologische ontwikkelingen te reflecteren. 
-            Een moment van bezinning in een realiteit die alsmaar sneller doorontwikkelt.
+            Nxt Museum is the first museum in the Netherlands that focuses entirely on media art. 
+            We exhibit artworks that utilize modern technologies of the present and the future. 
+            Because art reflects the spirit of the times, 
+            we believe that the most innovative art provides us with the opportunity to reflect on the impact of technological developments. 
+            A moment of contemplation in a reality that is constantly evolving at an accelerated pace.
         </p>
-        Adres
-        Nxt Museum
-        Asterweg 22
-        1031HP Amsterdam
-        
-        opennings tijden
-        zo-di: 10:30-20:30
-        wo: 11:00-21:30
-        do-za: 10:30-22:30
+            Address
+            Nxt Museum
+            Asterweg 22
+            1031HP Amsterdam
+
+            Opening Hours
+            Sun-Tue: 10:30 am - 8:30 pm
+            Wed: 11:00 am - 9:30 pm
+            Thu-Sat: 10:30 am - 10:30 pm
         <p>
 
         </p>
-        <img src="https://g.co/kgs/R2GaC1" alt="review">
     </article>
    <footer>
      <nav>
         <ul>
             <a href="https://tickets.nxtmuseum.com/nl/ticketsupport?_gl=1*13qla4q*_ga*NTM4NTM3NTM0LjE2OTk5NTUzMDg.*_ga_FL5TDXMYGX*MTcwMTk1NDU5MC45LjAuMTcwMTk1NDU5NC4wLjAuMA..*_fplc*bnhtd2JmSnB3Q3ZVQXhvckt4T2lyJTJCSDJNcGhNOTVKaHdnS3p4a3pmMXpXTTg0VjFhbkJlWE9SNEIlMkJnQmJxMVlFalNkZThHWlpUZDJ1RURVcFdibG1YVjRobXRvcG9XQTBSbEVkTFVsOGZZUXI4dWh6dmFMTndlTDU4OVJpUSUzRCUzRA.."><li>Ticket Support</li></a>
-            <a href="https://nxtmuseum.com/nl/veelgestelde-vragen/"><li>Veelgestelde vragen</li></a>
-            <a href="https://tickets.nxtmuseum.com/groep/groep-tickets/nl/658/readmore?_gl=1*p8xcz6*_ga*NTM4NTM3NTM0LjE2OTk5NTUzMDg.*_ga_FL5TDXMYGX*MTcwMTk1NDU5MC45LjEuMTcwMTk1NDk3MS4wLjAuMA..*_fplc*ZGIycFNIVEdudlN6WHFwVGhNNTdsZjBqcHpiaEZlVGVoZjQwVkw5V0dySEhic0FMNFRjVjhIbU9IWjZoaFNKdWtnWUdMN1hoekxselElMkZjcUxLM0pFaE5wJTJGT2ElMkZiUldCVWRvSDRHdXhxSFdtT0REY1NVcHQlMkZPblNid3JDcWclM0QlM0Q."><li>Groepsbezoek</li></a>
-            <a href="https://nxtmuseum.com/nl/educatie_en_workshops/"><li>Teamsessies</li></a>
-            <a href="https://nxtmuseum.com/nl/educatie_en_workshops/"><li>Educatie en workshops</li></a>
-            <a href="https://nxtmuseum.com/nl/creatieve-samenwerkingen/"><li>Creatieve samenwerkingen</li></a>
-            <a href="https://nxtmuseum.com/nl/rondleidingen/"><li>Rondleidingen</li></a>
+            <a href="https://nxtmuseum.com/nl/veelgestelde-vragen/"><li>FAQ</li></a>
+            <a href="https://tickets.nxtmuseum.com/groep/groep-tickets/nl/658/readmore?_gl=1*p8xcz6*_ga*NTM4NTM3NTM0LjE2OTk5NTUzMDg.*_ga_FL5TDXMYGX*MTcwMTk1NDU5MC45LjEuMTcwMTk1NDk3MS4wLjAuMA..*_fplc*ZGIycFNIVEdudlN6WHFwVGhNNTdsZjBqcHpiaEZlVGVoZjQwVkw5V0dySEhic0FMNFRjVjhIbU9IWjZoaFNKdWtnWUdMN1hoekxselElMkZjcUxLM0pFaE5wJTJGT2ElMkZiUldCVWRvSDRHdXhxSFdtT0REY1NVcHQlMkZPblNid3JDcWclM0QlM0Q."><li>Groeps visit</li></a>
+            <a href="https://nxtmuseum.com/nl/educatie_en_workshops/"><li>Teamsessions</li></a>
+            <a href="https://nxtmuseum.com/nl/educatie_en_workshops/"><li>Education and Workshops</li></a>
+            <a href="https://nxtmuseum.com/nl/creatieve-samenwerkingen/"><li>Creative Collaborations</li></a>
+            <a href="https://nxtmuseum.com/nl/rondleidingen/"><li>Tours</li></a>
         </ul>
         <ul>
-            <a href="https://nxtmuseum.com/nl/partner-worden/"><li>Partner worden?</li></a>
-            <a href="https://nxtmuseum.com/nl/creatieve-samenwerkingen/"><li>Creatieve samenwerkingen</li></a>
-            <a href="https://nxtmuseum.com/nl/ruimte-huren-amsterdam/"><li>Onze ruimte huren</li></a>
-            <a href="https://nxtmuseum.com/nl/educatie_en_workshops/"><li>Teamsessies</li></a>
+            <a href="https://nxtmuseum.com/nl/partner-worden/"><li>Become a partner</li></a>
+            <a href="https://nxtmuseum.com/nl/creatieve-samenwerkingen/"><li>Creative Collaborations</li></a>
+            <a href="https://nxtmuseum.com/nl/ruimte-huren-amsterdam/"><li>Want to rent our space?</li></a>
+            <a href="https://nxtmuseum.com/nl/educatie_en_workshops/"><li>Teamsessions</li></a>
             <a href="https://nxtmuseum.com/nl/pers/"></a><li>Pers</li></a>
-            <a href="https://nxtmuseum.com/nl/vacatures/"><li>Vacatures</li></a>
+            <a href="https://nxtmuseum.com/nl/vacatures/"><li>Vacancies</li></a>
         </ul>
         <ul>
-            <a href="https://nxtmuseum.com/nl/bezoekvoorwaarden/"><li>Bezoekvoorwaarden</li></a>
+            <a href="https://nxtmuseum.com/nl/bezoekvoorwaarden/"><li>Visit Conditions</li></a>
             <a href="https://nxtmuseum.com/nl/cookie-statement/"><li>Cookie statement</li></a>
-            <a href="https://nxtmuseum.com/nl/privacyverklaring/"><li>Privacyverklaring</li></a>
+            <a href="https://nxtmuseum.com/nl/privacyverklaring/"><li>Privacy Statement</li></a>
             <a href="https://nxtmuseum.com/nl/disclaimer/"><li>Disclaimer</li></a>
             <p>volg NXT</p>
             <a href="https://www.instagram.com/nxtmuseum/"><li>instagram</li></a>

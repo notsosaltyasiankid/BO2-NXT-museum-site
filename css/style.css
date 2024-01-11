@@ -5,13 +5,14 @@
 }
 
 body{
-    font-size: 20px;
-    font-family: sans-serif;
-    background: #292929;
+   font-size: 20px;
+   font-family: sans-serif;
+   background: #292929;
 }
 
-nav li{
-    color:white;
+nav ul{
+    margin-left: 34px;
+    margin-right: 34px;
 }
 
 ul{
@@ -56,6 +57,16 @@ article{
     padding: 20px;
 }
 
+.Headerbutton{
+    justify-content: center;
+    padding-left: 123px;
+    padding-right: 123px;
+    margin: 0 auto;
+    color:white;
+    text-decoration: none;
+    font-size: 130%;
+}
+
 .foto1{
     width: 477.6px;
     height: 400px;
@@ -86,8 +97,8 @@ img{
 
 }
 button{
-    width: 100px;
-}
+    width: 100px;    
+}  
 figcaption{
     font-size: 80%;
     font-style: italic;
