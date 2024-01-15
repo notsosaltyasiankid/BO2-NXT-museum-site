@@ -103,6 +103,12 @@ img{
     width: 150px;
 
 }
+
+.reviews{
+    width: 500px;
+    height: 500px;
+}
+
 button{
     width: 100px;    
 }  
