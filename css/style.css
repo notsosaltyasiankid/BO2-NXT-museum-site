@@ -86,7 +86,12 @@ article{
 
 .foto3{
     width: 477.6px;
-    height: 200px;
+    height: 400px;
+}
+
+.geschidenis{
+    width: 736.4px;
+    height: 400px;
 }
 
 .foto4{
@@ -99,14 +104,14 @@ article{
     height: 450;
 }
 
-.geschidenis{
-    width: 736.4px;
-    height: 400px;
+.adres{
+    width: 50;
+    height: 50;
 }
 
-.gegevens{
-    width: 100;
-    height: 100;
+.openningTijden{
+    width: 50;
+    height: 50;
 }
 
 figure{
