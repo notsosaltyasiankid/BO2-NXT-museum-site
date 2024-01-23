@@ -94,6 +94,25 @@ article{
     height: 400px;
 }
 
+.foto4{
+    width: 500px;
+    height: 450px;
+}
+
+.foto5{
+    width: 500;
+    height: 450;
+}
+
+.adres{
+    width: 50;
+    height: 50;
+}
+
+.openningTijden{
+    width: 50;
+    height: 50;
+}
 
 figure{
     margin-bottom: 40px;
@@ -104,7 +123,12 @@ img{
 
 }
 
+.treviews{
+    color: white;
+}
+
 .reviews{
+    color: white;
     width: 500px;
     height: 500px;
 }
