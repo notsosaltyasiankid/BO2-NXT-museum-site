@@ -27,15 +27,6 @@ ul{
     list-style: none;
 }
 
-footer{
-    background: black;
-    height: 300px;
-    color: white;
-   font-size: 20px;
-   font-family: sans-serif;
-
-}
-
 .container {
     display: grid;
     align-items: center; 
@@ -95,23 +86,26 @@ article{
 }
 
 .foto4{
-    width: 500px;
-    height: 450px;
+   
+    width: 600px;
+    height: 450px; 
+    
 }
 
 .foto5{
-    width: 500;
-    height: 450;
+    width: 500px;
+    height: 450px;
+    
 }
 
 .adres{
-    width: 50;
-    height: 50;
+    width: 150px;
+    height: 150px;
 }
 
 .openningTijden{
-    width: 50;
-    height: 50;
+    width: 200px;
+    height: 150px;
 }
 
 figure{
@@ -139,4 +133,18 @@ button{
 figcaption{
     font-size: 80%;
     font-style: italic;
+}
+
+footer{
+    background: black;
+    height: 300px;
+    color: white;
+   font-size: 20px;
+   font-family: sans-serif;
+}
+
+.article-geschiedenis{
+    display: flex;
+    margin: 10px;
+    gap: 20px;
 }
