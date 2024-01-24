@@ -87,13 +87,13 @@ article{
 
 .foto4{
    
-    width: 600px;
+    width: 700px;
     height: 450px; 
     
 }
 
 .foto5{
-    width: 500px;
+    width: 700px;
     height: 450px;
     
 }
@@ -147,4 +147,17 @@ footer{
     display: flex;
     margin: 10px;
     gap: 20px;
+}
+
+.adresOpeningstijden{
+    display: flex;
+    margin: 10px;
+    gap: 20px;
+}
+
+.article-riview{
+    display: flex;
+    margin: 10px;
+    gap: 200px;
+    margin-left: 100px;
 }
