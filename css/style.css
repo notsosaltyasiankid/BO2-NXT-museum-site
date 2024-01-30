@@ -11,10 +11,12 @@ body{
 }
 
 .taal{
-    justify-content: flex;
+    display: flex;
+    justify-content: flex-end;
     text-decoration: none;
     color: white;
     list-style: none;
+    border: none;
 }
 
 nav ul{
@@ -36,10 +38,14 @@ ul{
    }
 
 header{
-    height: 200px;
+    height: 230px;
     width: 100%;
     background: black;
     color: white;
+}
+
+.engelsnav{
+    list-style: none;
 }
 
 h1{
@@ -63,6 +69,10 @@ article{
     color:white;
     text-decoration: none;
     font-size: 130%;
+}
+
+.intro{
+    margin-bottom: 40px;
 }
 
 .foto1{
