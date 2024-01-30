@@ -13,7 +13,10 @@ body{
 .taal{
     display: flex;
     justify-content: flex-end;
+    padding-top: 10px;
+    padding-right: 20px;
     text-decoration: none;
+    text-transform: uppercase;
     color: white;
     list-style: none;
     border: none;
@@ -39,7 +42,7 @@ ul{
 
 header{
     height: 230px;
-    width: 100%;
+    width: 1520px;   
     background: black;
     color: white;
 }
@@ -184,3 +187,14 @@ footer{
     margin-left: 100px;
 }
 
+@media screen and (max-width:1460px){
+    header{
+
+    }
+
+    .Headerbutton{
+        font-size: 25px;
+    }
+
+    
+}
