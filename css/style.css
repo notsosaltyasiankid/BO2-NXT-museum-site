@@ -98,6 +98,13 @@ article{
     
 }
 
+.informatie{
+    display: flex;
+    margin-left: 250px;
+    align-items: center;
+
+}
+
 .adres{
     width: 150px;
     height: 150px;
