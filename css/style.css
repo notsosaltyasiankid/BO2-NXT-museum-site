@@ -191,7 +191,7 @@ footer{
     margin-left: 100px;
 }
 
-<<<<<<< HEAD
+
 @media screen and (max-width:1460px){
     header{
 
@@ -203,7 +203,7 @@ footer{
 
     
 }
-=======
+
 * {box-sizing: border-box}
         .mySlides {display: none}
         img {vertical-align: middle;}
@@ -272,4 +272,5 @@ footer{
           animation-duration: 1.5s;
         }
 
->>>>>>> fe99db94db576ae430991a2f2e65874b4966ec3b
+
+    
