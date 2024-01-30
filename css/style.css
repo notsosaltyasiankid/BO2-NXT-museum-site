@@ -93,9 +93,14 @@ article{
     height: 400px;
 }
 
+.divGeschidenis{
+    align-items: center;
+}
+
 .geschidenis{
     width: 736.4px;
     height: 400px;
+
 }
 
 .foto4{
@@ -114,7 +119,6 @@ article{
 .informatie{
     display: flex;
     margin-left: 250px;
-    align-items: center;
 
 }
 
