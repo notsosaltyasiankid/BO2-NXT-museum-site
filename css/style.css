@@ -8,6 +8,7 @@ body{
    font-size: 20px;
    font-family: sans-serif;
    background: #292929;
+   color:white;
 }
 
 .taal, .colormode{
@@ -194,8 +195,20 @@ img{
     
 }
 
+.treviews2{
+    color: black;
+    margin-left: 700px;
+    
+}
+
 .reviews{
     color: white;
+    width: 500px;
+    height: 500px;
+}
+
+.reviews2{
+    color: black;
     width: 500px;
     height: 500px;
 }
