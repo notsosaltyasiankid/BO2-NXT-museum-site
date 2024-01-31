@@ -10,7 +10,7 @@ body{
    background: #292929;
 }
 
-.taal{
+.taal, .colormode{
     display: flex;
     justify-content: flex-end;
     padding-top: 10px;
@@ -20,6 +20,22 @@ body{
     color: white;
     list-style: none;
     border: none;
+}
+
+.taal2, .colormode2{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 10px;
+    padding-right: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    list-style: none;
+    border: none;
+}
+
+.light2{
+    color: black;
 }
 
 nav ul{
@@ -41,10 +57,19 @@ ul{
    }
 
 header{
-    height: 230px;
+    height: 250px;
     width: 1520px;   
     background: black;
     color: white;
+}
+
+.lightheader{
+    background: gray;
+}
+
+.light{ 
+    background: white;
+    color: black;
 }
 
 .engelsnav{
@@ -70,6 +95,16 @@ article{
     padding-right: 123px;
     margin: 0 auto;
     color:white;
+    text-decoration: none;
+    font-size: 130%;
+}
+
+.Headerbutton2{
+    justify-content: center;
+    padding-left: 123px;
+    padding-right: 123px;
+    margin: 0 auto;
+    color:black;
     text-decoration: none;
     font-size: 130%;
 }
@@ -103,6 +138,12 @@ article{
 
 }
 
+.geschidenis2{
+    width: 736.4px;
+    height: 400px;
+    color: black;
+}
+
 .foto4{
    
     width: 700px;
@@ -120,6 +161,12 @@ article{
     display: flex;
     margin-left: 250px;
 
+}
+
+.informatie2{
+    display: flex;
+    margin-left: 250px;
+    color: black;
 }
 
 .adres{
