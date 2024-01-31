@@ -162,12 +162,14 @@ article{
 
 .informatie{
     display: flex;
+    align-items: center;
     margin-left: 250px;
 
 }
 
 .informatie2{
     display: flex;
+    align-items: center;
     margin-left: 250px;
     color: black;
 }
